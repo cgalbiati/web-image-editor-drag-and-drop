@@ -10,7 +10,6 @@ This is an example of using the Creative SDK Image Editor for Web with the [HTML
 - [Learn more about the Creative SDK](#learn-more)
 - [Get help](#get-help)
 
-
 <a name="live"></a>
 ## Live demos
 [You can try a live demo of this repo on its GitHub project page](https://creativesdk.github.io/web-image-editor-drag-and-drop/).

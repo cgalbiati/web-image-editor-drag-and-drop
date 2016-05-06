@@ -131,4 +131,5 @@ $(document).ready(function() {
 			//url: currentImage.src
 		});
 	}
+
 });
